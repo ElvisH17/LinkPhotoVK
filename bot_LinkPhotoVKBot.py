@@ -3,7 +3,7 @@ import requests
 import json
 import base64
 
-API_TOKEN = '6905257183:AAG8iNt0PG3qVaDY5qkFP8MWVRHKKjvxanA'
+API_TOKEN = '6689448691:AAEXhOf0S3xo1RIFj2QxJTJjEgtISTI9zI0'
 IMGBB_API_ENDPOINT = 'https://api.imgbb.com/1/upload'
 IMGBB_API_KEY = '6484c0f651cf789c0a9d5ca047c5c671'
 
